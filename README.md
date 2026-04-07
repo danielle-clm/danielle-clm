@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there, I'm Danielle
+Healthcare Data Analyst | B.S. Healthcare Management
 
-<!--
-**danielle-clm/danielle-clm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data analyst focused on bridging the gap between clinical operations and data-driven decision-making. I am currently building my professional toolkit, with a deep focus on leveraging data to improve patient outcomes and administrative efficiency.
 
-Here are some ideas to get you started:
+ My Analytics Toolbox
+[Excel]
+[Data Visualization]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Healthcare Focus Areas
+- **Clinical Operations:** Optimizing patient intake and scheduling workflows.
+- **Data Reporting:** Translating raw administrative data into clear, actionable executive summaries.
+- **Process Improvement:** Applying data-driven insights to healthcare management challenges.
+
+**Current Projects**
+*I am currently building my portfolio of projects focusing on healthcare operational data. Check back soon for my latest Excel-based analyses!*
+
+**Let's Connect!**
+- [LinkedIn](www.linkedin.com/in/danielle-c-605721284)
