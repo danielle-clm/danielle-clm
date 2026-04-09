@@ -16,4 +16,4 @@ Healthcare Focus Areas
 *I am currently building my portfolio of projects focusing on healthcare operational data. Check back soon for my latest Excel-based analyses!*
 
 **Let's Connect!**
-- [LinkedIn](www.linkedin.com/in/danielle-c-605721284)
+- [LinkedIn](https://www.linkedin.com/in/danielle-m-605721284/?skipRedirect=true)
